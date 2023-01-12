@@ -28,6 +28,5 @@ whoAmI := map[string]interface{}{
 ``` 
 ## Statistics
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=afshintavakolian&show_icons=true&theme=radical&line_height=40" width="40%">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afshintavakolian&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" width="40%"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afshintavakolian&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" width="100%"/>
 </p>
