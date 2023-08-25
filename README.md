@@ -1,32 +1,19 @@
-<a href="http://afsh7n.ir">
-    <img src="assets/GitHubHeader.gif" alt="this slowpoke moves"  width="100%" height="500px"  />
-</a>
+# 💫 About Me:
+🔭 Currently working on Laravel and Node.js projects.<br>👯 Seeking collaboration on projects related to Laravel and Node.js.<br>🤝 Looking for assistance with advanced Laravel and Node.js concepts.<br>🌱 Actively learning design patterns, microservices architecture, and cloud migration for Laravel and Node.js applications.<br>💬 Feel free to ask questions about Laravel and Node.js development, best practices, code optimization, database design, API development, and similar topics.<br>⚡️ During my free time, I enjoy exploring new programming languages and technologies. Learning different programming paradigms and tools is always exciting and educational!
 
-[![Website Badge](https://img.shields.io/badge/Afsh7n.ir-Website-red?logo=appveyor)](https://afsh7n.ir)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-blue?logo=telegram)](https://t.me/afsh7n)
-[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-Profile-green?logo=whatsapp)](https://api.whatsapp.com/send?phone=989051336889)
-[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/afsh7n)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Send%20Email-red?logo=gmail)](mailto:afsh7n@gmail.com)
 
-Hey there 👋
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afshin.code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afsh7n) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/afsh7n) 
 
-I am Afshin, a software engineering student and backend programmer, who is very interested in learning new programming and technologies.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=afsh7n&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=afsh7n&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afsh7n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-```go
-whoAmI := map[string]interface{}{
-	"name":            "Afshin Tavakolian",
-	"profession":      "Software Engineer , Backend Developer",
-	"location":        "Iran",
-	"university":      "Imam Khomeini University of Technology",
-	"currentPosition": "Freelancer",
-	"languages":       []string{"PHP" , "Javascript" , "Typescript"},
-	"frameworks":      []string{"Laravel" , "ExpressJS" , "Nodejs" , "VueJs"},
-	"databases":       []string{"MySQL", "MongoDB" , "Redis" , "PostgreSQL"},
-	"tools":           []string{"Git" , "Docker"},
-	"systems":         []string{"Linux"},
-}
-``` 
-## Statistics
-<p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afshintavakolian&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" width="100%"/>
-</p>
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=afsh7n&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
