@@ -1,64 +1,63 @@
-<h1 align="center">Hey 👋 I'm Afshin Tavakolian</h1>
+
+<h1 align="center">Hey, I’m Afshin Tavakolian ⚡</h1>
+<p align="center">
+  <strong>Backend Engineer | Crypto Systems Specialist | Node.js & Laravel Expert</strong>
+</p>
 
 <p align="center">
-  👨‍💻 Software Engineer | 💸 Building Crypto Payment Systems | 🛠️ Clean & Scalable Backends  
-  <br/>
-  <a href="https://afsh7n.com">🌐 afsh7n.com</a> • 
-  <a href="https://linkedin.com/in/afsh7n">💼 LinkedIn</a> • 
-  <a href="mailto:afsh7n@gmail.com">📫 Email Me</a>
+  <a href="https://afsh7n.com" target="_blank">🌐 afsh7n.com</a> • 
+  <a href="mailto:afsh7n@gmail.com">📧 afsh7n@gmail.com</a> • 
+  <a href="https://t.me/afsh7n">🐦 Telegram</a> • 
+  <a href="https://linkedin.com/in/afsh7n">🔗 LinkedIn</a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-```js
-const afshin = {
-  title: "Software Engineer",
-  techStack: [
-    "Node.js", "TypeScript", "NestJS", "Laravel", "PHP",
-    "PostgreSQL", "Redis", "Docker", "WebSocket", "GraphQL"
-  ],
-  currently: "Building a multi-currency crypto payment gateway",
-  location: "Vienna, Austria",
-  languages: ["fa", "en"],
-  hobbies: ["Solving real-world problems", "Learning about blockchain", "Remote working with love ❤️"],
-  married: true
-}
-```
+I’m a backend software engineer with 4+ years of experience designing scalable systems and real-time APIs.  
+My work focuses on building resilient architectures, modular codebases, and developer-friendly APIs — especially in crypto payment infrastructures.
+
+Currently, I’m leading backend development at a blockchain-focused company,  
+building a secure, scalable crypto gateway with multi-chain support.
 
 ---
 
-### 🔧 Technologies & Tools
+### 🔧 Tech Stack at a Glance
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-f72c1f?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=afsh7n&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afsh7n&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=afsh7n&theme=radical"/>
-</p>
+```yaml
+Languages:        TypeScript, PHP, Shell
+Frameworks:       NestJS, Laravel, Express
+Databases:        PostgreSQL, Redis, MongoDB, MySQL
+Infra & DevOps:   Docker, GitHub Actions, CI/CD, Linux
+Messaging:        Redis Queue, RabbitMQ, Async Workers
+Crypto:           BTC, ETH, TON, TRX, LTC, Jettons, Web3 & RPC APIs
+Other:            TDD, Modular Architecture, WebSocket, OAuth2, JWT
+````
 
 ---
 
-### 📫 Let's Connect
+### 🚀 What I Do Best
 
-- 💼 LinkedIn: [linkedin.com/in/afsh7n](https://linkedin.com/in/afsh7n)
-- 🌐 Website: [afsh7n.com](https://afsh7n.com)
-- 📝 Blog: [virgool.io/@afsh7n](https://virgool.io/@afsh7n)
-- 📩 Email: [afsh7n@gmail.com](mailto:afsh7n@gmail.com)
+✅ Architect secure and modular backends for real-world scale <br/>
+✅ Build event-driven systems with retry logic and batching <br/>
+✅ Handle blockchain integrations for wallet services and transactions <br/>
+✅ Optimize APIs for performance and developer experience <br/>
+✅ Deploy and maintain CI/CD pipelines on Docker & Linux <br/>
+
+> “I design systems that don’t just work — they endure.”
+
+---
+
+### 🤝 Available For
+
+* Backend engineering roles (contract/full-time/remote)
+* Scalable system or API design for product teams
+* Blockchain wallet/payment gateway development
+
+Want to build something together?
+📬 Reach out via [email](mailto:afsh7n@gmail.com) or visit [afsh7n.com](https://afsh7n.com)
+
+---
+
+<sub>Minimal. Maintainable. Modular. That’s the code I write.</sub>
