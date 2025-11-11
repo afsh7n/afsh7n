@@ -1,63 +1,69 @@
+<div align="center">
 
-<h1 align="center">Hey, I’m Afshin Tavakolian ⚡</h1>
-<p align="center">
-  <strong>Backend Engineer | Crypto Systems Specialist | Node.js & Laravel Expert</strong>
-</p>
+# Afshin Tavakolian
 
-<p align="center">
-  <a href="https://afsh7n.com" target="_blank">🌐 afsh7n.com</a> • 
-  <a href="mailto:afsh7n@gmail.com">📧 afsh7n@gmail.com</a> • 
-  <a href="https://t.me/afsh7n">🐦 Telegram</a> • 
-  <a href="https://linkedin.com/in/afsh7n">🔗 LinkedIn</a>
-</p>
+### Senior Backend Engineer
 
----
+*Building scalable backend systems & real-time APIs with Node.js, NestJS, and Blockchain.*
 
-### 👨‍💻 About Me
+</div>
 
-I’m a backend software engineer with 4+ years of experience designing scalable systems and real-time APIs.  
-My work focuses on building resilient architectures, modular codebases, and developer-friendly APIs — especially in crypto payment infrastructures.
-
-Currently, I’m leading backend development at a blockchain-focused company,  
-building a secure, scalable crypto gateway with multi-chain support.
-
----
-
-### 🔧 Tech Stack at a Glance
-
-```yaml
-Languages:        TypeScript, PHP, Shell
-Frameworks:       NestJS, Laravel, Express
-Databases:        PostgreSQL, Redis, MongoDB, MySQL
-Infra & DevOps:   Docker, GitHub Actions, CI/CD, Linux
-Messaging:        Redis Queue, RabbitMQ, Async Workers
-Crypto:           BTC, ETH, TON, TRX, LTC, Jettons, Web3 & RPC APIs
-Other:            TDD, Modular Architecture, WebSocket, OAuth2, JWT
-````
+<div align="center">
+  <a href="https://afsh7n.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=dev.to&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/afsh7n" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/afsh7n" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://calendly.com/afsh7n/30min" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Meeting-006BFF?style=flat-square&logo=calendly&logoColor=white" alt="Calendly"/>
+  </a>
+</div>
 
 ---
 
-### 🚀 What I Do Best
+### Hi there, I'm Afshin! 👋
 
-✅ Architect secure and modular backends for real-world scale <br/>
-✅ Build event-driven systems with retry logic and batching <br/>
-✅ Handle blockchain integrations for wallet services and transactions <br/>
-✅ Optimize APIs for performance and developer experience <br/>
-✅ Deploy and maintain CI/CD pipelines on Docker & Linux <br/>
+I'm a Senior Backend Engineer with **6+ years of experience** building scalable, production-ready systems. My primary focus is on the **Node.js ecosystem** (TypeScript, NestJS, Express), where I specialize in creating modular, efficient, and secure applications.
 
-> “I design systems that don’t just work — they endure.”
+My passion lies in engineering fast and reliable systems, especially where **blockchain, APIs, and scalability** intersect. I have extensive experience developing multi-currency crypto payment gateways, designing secure wallet services, and implementing real-time transaction monitoring.
 
 ---
 
-### 🤝 Available For
+### ⚙️ My Tech Stack
 
-* Backend engineering roles (contract/full-time/remote)
-* Scalable system or API design for product teams
-* Blockchain wallet/payment gateway development
+#### Core Technologies
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-Want to build something together?
-📬 Reach out via [email](mailto:afsh7n@gmail.com) or visit [afsh7n.com](https://afsh7n.com)
+#### Blockchain Expertise
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![TRON](https://img.shields.io/badge/-TRON-FF060A?style=flat-square&logo=tron&logoColor=white)
 
 ---
 
-<sub>Minimal. Maintainable. Modular. That’s the code I write.</sub>
+### ✨ Core Competencies
+
+-   **Backend Architecture**: Designing and implementing scalable microservices, modular systems, and clean architecture.
+-   **Blockchain & Crypto**: Building secure crypto payment gateways, wallet services (UTXO & Account-based), and real-time monitoring solutions.
+-   **API Development**: Crafting efficient and developer-friendly APIs using REST, GraphQL, JSON-RPC, and WebSockets.
+-   **Performance Optimization**: Leveraging database indexing, caching strategies (Redis), and message queues (RabbitMQ) to build high-performance systems.
+-   **TDD & CI/CD**: Advocating for test-driven development and automating deployment pipelines with tools like GitHub Actions.
+
+---
+
+<div align="center">
+
+*Feel free to reach out if you'd like to collaborate on a project or just have a chat!*
+
+</div>
